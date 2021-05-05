@@ -1,17 +1,62 @@
 {
-  "quotes": [
-    { "content": "灯和灯没必要相逢。他们看不见对方。" },
-    { "content": "人们认为故事是由人塑造的。事实恰好相反。" },
-    { "author": "司空图", "title": "二十四诗品", "content": "所思不远，若为平生。" },
-    { "author": "司空图", "title": "二十四诗品", "content": "流水今日，明月前身。" },
-    { "author": "王融", "title": "咏琵琶", "content": "掩抑有奇态，凄怆多好声。" },
-    { "author": "王山", "title": "梦中作", "content": "历劫易翻沧海水，浓春难谢碧桃花。" },
-    { "author": "罗隐", "title": "筹笔驿", "content": "抛掷南阳为主忧，北征东讨尽良筹。\n时来天地皆同力，运去英雄不自由。\n千里山河轻孺子，两冠剑恨谯周。\n唯余岩下多情水，犹解年年傍驿流。" },
-    { "author": "安吉拉·卡特", "title": "马戏团之夜", "content": "你叫什么名字？你有灵魂吗？你能够爱吗？" },
-    { "author": "William Makepeace Thackeray", "content": "To love and win is the best thing. To love and lose, the next best." },
-    { "author": "Jalāl ad-Dīn Mohammad Rūmī", "content": "I was raw, I became cooked, I was burnt." },
-    { "author": "Jalāl ad-Dīn Mohammad Rūmī", "content": "The wound is the place where the Light enters you." },
-    { "author": "Federico García Lorca", "title": "Pequeño vals Vienés", "content": "En Viena hay diez muchachas,\nun hombro donde solloza la muerte\ny un bosque de palomas disecadas.\nHay un fragmento de la mañana\nen el museo de la escarcha.\nHay un salón con mil ventanas.\n\t¡Ay, ay, ay, ay!\nToma este vals con la boca cerrada.\n\nEste vals, este vals, este vals,\nde sí, de muerte y de coñac\nque moja su cola en el mar.\n\nTe quiero, te quiero, te quiero,\ncon la butaca y el libro muerto,\npor el melancólico pasillo,\nen el oscuro desván del lirio,\nen nuestra cama de la luna\ny en la danza que sueña la tortuga.\n\t¡Ay, ay, ay, ay!\nToma este vals de quebrada cintura.\n\nEn Viena hay cuatro espejos\ndonde juegan tu boca y los ecos.\nHay una muerte para piano\nque pinta de azul a los muchachos.\nHay mendigos por los tejados.\nHay frescas guirnaldas de llanto.\n\t¡Ay, ay, ay, ay!\nToma este vals que se muere en mis brazos.\n\nPorque te quiero, te quiero, amor mío,\nen el desván donde juegan los niños,\nsoñando viejas luces de Hungría\npor los rumores de la tarde tibia,\nviendo ovejas y lirios de nieve\npor el silencio oscuro de tu frente.\n\t¡Ay, ay, ay, ay!\nToma este vals del \"Te quiero siempre\".\n\nEn Viena bailaré contigo\ncon un disfraz que tenga\ncabeza de río.\n¡Mira qué orilla tengo de jacintos!\nDejaré mi boca entre tus piernas,\nmi alma en fotografías y azucenas,\ny en las ondas oscuras de tu andar\nquiero, amor mío, amor mío, dejar,\nviolín y sepulcro, las cintas del vals." },
-    { "author": "费德里科·加西亚·洛尔迦", "title": "维也纳小圆舞曲", "content": "维也纳有十个少女，\n有一个让死神枕着哭泣的肩膀\n和一个脱水鸽子的森林。\n霜雪博物馆里\n有一小片明天。\n有一个开着一千扇窗子的厅堂。\n\n唉，唉，唉，唉！\n把这首紧闭着嘴巴的圆舞曲拿走吧。\n\n属于自身的，死亡和干邑酒的，\n尾巴浸在海里的\n圆舞曲，圆舞曲，圆舞曲。\n\n我爱你，我爱你，我爱你，\n用靠椅和死的书爱你，\n在爱愁的甬道上，\n在百合花幽暗的阁楼上，\n在我们的月亮床上，\n在海龟梦想的舞蹈里。\n\n唉，唉，唉，唉！\n把这首折了腰的圆舞曲拿走吧。\n\n维也纳有四面镜子，\n让你的嘴巴和回声在那里游戏。\n在一种死亡留给\n为男孩子涂上蓝色的钢琴。\n有叫化在屋顶上。\n有眼泪在鲜花环。\n\n唉，唉，唉，唉！\n把这首死在我怀里的圆舞曲拿走吧。\n\n因为我爱你，我爱你，我的爱，\n在孩子们玩耍的阁楼上，\n在微温的午后的语声里，\n梦见匈牙利古老的光，\n在你前额的幽静里\n观看羊群和彩虹。\n\n唉，唉，唉，唉！\n把这首《永远爱你》圆舞曲拿走吧。\n\n在维也纳，我会跟你共舞，\n戴着面具\n以河水为头发。\n看岸上盛开的风信子啊！\n我会在你的双足之间留下嘴巴\n在照片和晚香玉里留下灵魂，\n而在你离去之后的黑暗里，\n我的爱，我的爱啊，我要留下\n小提琴和坟墓，圆舞和丝带。" }
+  "quotes":[
+    {
+      "content":"灯和灯没必要相逢。他们看不见对方。"
+    },
+    {
+      "content":"人们认为故事是由人塑造的。事实恰好相反。"
+    },
+    {
+      "author":"司空图",
+      "title":"二十四诗品",
+      "content":"所思不远，若为平生。"
+    },
+    {
+      "author":"司空图",
+      "title":"二十四诗品",
+      "content":"流水今日，明月前身。"
+    },
+    {
+      "author":"王融",
+      "title":"咏琵琶",
+      "content":"掩抑有奇态，凄怆多好声。"
+    },
+    {
+      "author":"王山",
+      "title":"梦中作",
+      "content":"历劫易翻沧海水，浓春难谢碧桃花。"
+    },
+    {
+      "author":"罗隐",
+      "title":"筹笔驿",
+      "content":"抛掷南阳为主忧，北征东讨尽良筹。\n时来天地皆同力，运去英雄不自由。\n千里山河轻孺子，两冠剑恨谯周。\n唯余岩下多情水，犹解年年傍驿流。"
+    },
+    {
+      "author":"安吉拉·卡特",
+      "title":"马戏团之夜",
+      "content":"你叫什么名字？你有灵魂吗？你能够爱吗？"
+    },
+    {
+      "author":"William Makepeace Thackeray",
+      "content":"To love and win is the best thing. To love and lose, the next best."
+    },
+    {
+      "author":"Jalāl ad-Dīn Mohammad Rūmī",
+      "content":"I was raw, I became cooked, I was burnt."
+    },
+    {
+      "author":"Jalāl ad-Dīn Mohammad Rūmī",
+      "content":"The wound is the place where the Light enters you."
+    },
+    {
+      "author":"Federico García Lorca",
+      "title":"Pequeño vals Vienés",
+      "content":"En Viena hay diez muchachas,\nun hombro donde solloza la muerte\ny un bosque de palomas disecadas.\nHay un fragmento de la mañana\nen el museo de la escarcha.\nHay un salón con mil ventanas.\n\t¡Ay, ay, ay, ay!\nToma este vals con la boca cerrada.\n\nEste vals, este vals, este vals,\nde sí, de muerte y de coñac\nque moja su cola en el mar.\n\nTe quiero, te quiero, te quiero,\ncon la butaca y el libro muerto,\npor el melancólico pasillo,\nen el oscuro desván del lirio,\nen nuestra cama de la luna\ny en la danza que sueña la tortuga.\n\t¡Ay, ay, ay, ay!\nToma este vals de quebrada cintura.\n\nEn Viena hay cuatro espejos\ndonde juegan tu boca y los ecos.\nHay una muerte para piano\nque pinta de azul a los muchachos.\nHay mendigos por los tejados.\nHay frescas guirnaldas de llanto.\n\t¡Ay, ay, ay, ay!\nToma este vals que se muere en mis brazos.\n\nPorque te quiero, te quiero, amor mío,\nen el desván donde juegan los niños,\nsoñando viejas luces de Hungría\npor los rumores de la tarde tibia,\nviendo ovejas y lirios de nieve\npor el silencio oscuro de tu frente.\n\t¡Ay, ay, ay, ay!\nToma este vals del \"Te quiero siempre\".\n\nEn Viena bailaré contigo\ncon un disfraz que tenga\ncabeza de río.\n¡Mira qué orilla tengo de jacintos!\nDejaré mi boca entre tus piernas,\nmi alma en fotografías y azucenas,\ny en las ondas oscuras de tu andar\nquiero, amor mío, amor mío, dejar,\nviolín y sepulcro, las cintas del vals."
+    },
+    {
+      "author":"费德里科·加西亚·洛尔迦",
+      "title":"维也纳小圆舞曲",
+      "content":"维也纳有十个少女，\n有一个让死神枕着哭泣的肩膀\n和一个脱水鸽子的森林。\n霜雪博物馆里\n有一小片明天。\n有一个开着一千扇窗子的厅堂。\n\n唉，唉，唉，唉！\n把这首紧闭着嘴巴的圆舞曲拿走吧。\n\n属于自身的，死亡和干邑酒的，\n尾巴浸在海里的\n圆舞曲，圆舞曲，圆舞曲。\n\n我爱你，我爱你，我爱你，\n用靠椅和死的书爱你，\n在爱愁的甬道上，\n在百合花幽暗的阁楼上，\n在我们的月亮床上，\n在海龟梦想的舞蹈里。\n\n唉，唉，唉，唉！\n把这首折了腰的圆舞曲拿走吧。\n\n维也纳有四面镜子，\n让你的嘴巴和回声在那里游戏。\n在一种死亡留给\n为男孩子涂上蓝色的钢琴。\n有叫化在屋顶上。\n有眼泪在鲜花环。\n\n唉，唉，唉，唉！\n把这首死在我怀里的圆舞曲拿走吧。\n\n因为我爱你，我爱你，我的爱，\n在孩子们玩耍的阁楼上，\n在微温的午后的语声里，\n梦见匈牙利古老的光，\n在你前额的幽静里\n观看羊群和彩虹。\n\n唉，唉，唉，唉！\n把这首《永远爱你》圆舞曲拿走吧。\n\n在维也纳，我会跟你共舞，\n戴着面具\n以河水为头发。\n看岸上盛开的风信子啊！\n我会在你的双足之间留下嘴巴\n在照片和晚香玉里留下灵魂，\n而在你离去之后的黑暗里，\n我的爱，我的爱啊，我要留下\n小提琴和坟墓，圆舞和丝带。"
+    }
   ]
 }
